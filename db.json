@@ -35,6 +35,12 @@
       "name": "Tammy",
       "occupation": "Recruiter",
       "image": "https://i.pinimg.com/originals/00/5e/13/005e13e9636b4739429ed8cf195c69b4.jpg"
+    },
+    {
+      "name": "Cutie",
+      "occupation": "Hiring Manager",
+      "image": "https://i.pinimg.com/736x/9d/97/7c/9d977c1697312ae1323d4a83f8a0776c.jpg",
+      "id": 7
     }
   ]
 }
